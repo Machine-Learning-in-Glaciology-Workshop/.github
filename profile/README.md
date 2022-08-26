@@ -8,7 +8,7 @@ This workshop is targeted towards people who already have decent programming ski
 want to increase their skills in machine learning related to glaciology. It is highly preferred that you have some 
 experiences using either python, C/C++, or Julia for research you currently are working on. 
 
-<img src="finse_banner.png" width="700"/>
+<img src="https://i.imgur.com/4nkG4kL.png" width="700"/>
 
 ### Workshop organizers
 

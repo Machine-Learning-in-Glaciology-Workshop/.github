@@ -7,4 +7,19 @@ Postdocs, and Researchers in Norway who are interested in the intersection of gl
 This workshop is targeted towards people who already have decent programming skills in their preferred language and 
 want to increase their skills in machine learning related to glaciology. It is highly preferred that you have some 
 experiences using either python, C/C++, or Julia for research you currently are working on. 
-There are 10 spots available in the workshop.
+
+<img src="finse_banner.png" width="700"/>
+
+### Workshop organizers
+
+This project has been supported by the Research Council of Norway (Project No. 329192, 333884). And has been organized by the following institutions:
+
+<img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/uio.png" width="300"/>
+
+<img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/uib.png" width="300"/>
+
+<img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/imau.png" width="400"/>
+
+<img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/berkeley.png" width="200"/>
+
+

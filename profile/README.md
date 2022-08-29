@@ -2,7 +2,7 @@
 
 ### Finse research station (Norway)
 
-This workshop is designed to connect early career researchers (<7 years since your PhD defense) such as PhD, 
+This [workshop](https://machine-learning-in-glaciology-workshop.github.io/) is designed to connect early career researchers (<7 years since your PhD defense) such as PhD, 
 Postdocs, and Researchers in Norway who are interested in the intersection of glaciology and machine learning. 
 This workshop is targeted towards people who already have decent programming skills in their preferred language and 
 want to increase their skills in machine learning related to glaciology. It is highly preferred that you have some 

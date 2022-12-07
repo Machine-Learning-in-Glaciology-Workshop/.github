@@ -22,4 +22,4 @@ The training course has been organized by the following institutions:
 
 The course is sponsored by the [Peder Sather grant](https://sathercenter.berkeley.edu/peder-sather-grant/) and [CloudFerro](https://cloudferro.com/en/)
 
-<img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/cloudferro.png" width="200"/>
+<img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/CloudFerro_logo_vertical.png" width="200"/>

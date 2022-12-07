@@ -1,4 +1,4 @@
-# Machine Learning in Glaciology workshop
+# Machine Learning in Glaciology training workshop
 
 ### Finse research station, Norway
 
@@ -9,7 +9,7 @@ This workshop is primarily project based. You can learn more about the projects 
 
 ### Workshop organizers
 
-This project has been supported by the Research Council of Norway (Project No. 329192, 333884). And has been organized by the following institutions:
+The training course has been organized by the following institutions:
 
 <img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/uio.png" width="300"/>
 
@@ -18,5 +18,10 @@ This project has been supported by the Research Council of Norway (Project No. 3
 <img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/imau.png" width="400"/>
 
 <img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/berkeley.png" width="200"/>
+
+
+The course is sponsored by the [Peder Sather grant](https://sathercenter.berkeley.edu/peder-sather-grant/) and [CloudFerro](https://cloudferro.com/en/)
+
+<img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/cloudferro.png" width="200"/>
 
 

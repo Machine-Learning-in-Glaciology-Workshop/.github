@@ -9,7 +9,7 @@ This workshop is primarily project based. You can learn more about the projects 
 
 ### Workshop organizers
 
-The training course has been organized by the following institutions:
+The training course is supported by the following institutions:
 
 <img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/uio.png" width="300"/>
 
@@ -19,6 +19,10 @@ The training course has been organized by the following institutions:
 
 <img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/berkeley.png" width="200"/>
 
+Local organizing committee:
+Thomas Schellenberger (University of Oslo)
+Regine Hock (University of Oslo)
+Ben Robson (University of Bergen)
 
 The course is sponsored by the [Peder Sather grant](https://sathercenter.berkeley.edu/peder-sather-grant/) and [CloudFerro](https://cloudferro.com/en/)
 

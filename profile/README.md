@@ -17,6 +17,8 @@ The training course is supported by the following institutions:
 
 <img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/imau.png" width="400"/>
 
+<img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/TUDelft_logo_rgb.png" width="250"/>
+
 <img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/berkeley.png" width="200"/>
 
 Local organizing committee:

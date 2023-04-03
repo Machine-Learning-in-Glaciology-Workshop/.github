@@ -26,6 +26,8 @@ Thomas Schellenberger (University of Oslo)
 Regine Hock (University of Oslo)
 Ben Robson (University of Bergen)
 
-The course is sponsored by the [Peder Sather grant](https://sathercenter.berkeley.edu/peder-sather-grant/) and [CloudFerro](https://cloudferro.com/en/)
+The course is sponsored by the [Peder Sather grant](https://sathercenter.berkeley.edu/peder-sather-grant/), [CloudFerro](https://cloudferro.com/en/), and [CryoCloud](https://cryointhecloud.co)
 
 <img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/CloudFerro_logo_vertical.png" width="200"/>
+
+<img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/cryocloud.jpeg" width="200"/>

@@ -11,15 +11,15 @@ This workshop is primarily project based. You can learn more about the projects 
 
 The workshop is supported by the following institutions:
 <br>
-<img src="assets/imgs/TUDelft_logo_rgb.png" width="200"> <br>
+<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/tree/master/assets/imgs/02_uio_full_logo_eng_pos_small.jpg" width="300"> <br>
 
-<img src="assets/imgs/02_uio_full_logo_eng_pos_small.jpg" width="300"> <br>
+<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/tree/master/assets/imgs/TUDelft_logo_rgb.png" width="200"> <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Universit%C3%A9_Grenoble_Alpes_2020.svg/1280px-Logo_Universit%C3%A9_Grenoble_Alpes_2020.svg.png" width="200"> <br>
 
-<img src="assets/imgs/berkeley.png" width="200"> <br>
+<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/tree/master/assets/imgs/berkeley.png" width="200"> <br>
 
-<img src="assets/imgs/University of Twente logo-stacked.png" width="200"> <br>
+<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/tree/master/assets/imgs/University of Twente logo-stacked.png" width="200"> <br>
 
 <img src="https://study-eu.s3.eu-west-1.amazonaws.com/uploads/university/western-norway-university-of-applied-sciences-logo.png" width="250"> <br>
 

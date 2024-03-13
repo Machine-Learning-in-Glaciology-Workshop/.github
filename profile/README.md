@@ -9,6 +9,19 @@ This workshop is primarily project based. You can learn more about the projects 
 
 ### Workshop organizers
 
+Local organizing committee:
+Thomas Schellenberger (University of Oslo)<br>
+Regine Hock (University of Oslo & University of Alaska Fairbanks)
+
+Workshop organizers and instructors: <br>
+<br>
+Jordi Bolibar (Université Grenoble Alpes) <br>
+Regine Hock (University of Oslo & University of Alaska Fairbanks) <br>
+Konstantin Maslov (University of Twente) <br>
+Facundo Sapienza (UC Berkeley) <br>
+Thomas Schellenberger (University of Oslo) <br>
+Kamilla Hauknes Sjursen (Western Norway University of Applied Sciences) <br>
+
 The workshop is supported by the following institutions:
 <br>
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/tree/master/assets/imgs/02_uio_full_logo_eng_pos_small.jpg" width="300"> <br>
@@ -23,18 +36,7 @@ The workshop is supported by the following institutions:
 
 <img src="https://study-eu.s3.eu-west-1.amazonaws.com/uploads/university/western-norway-university-of-applied-sciences-logo.png" width="250"> <br>
 
-Local organizing committee:
-Thomas Schellenberger (University of Oslo)<br>
-Regine Hock (University of Oslo & University of Alaska Fairbanks)
 
-Workshop organizers and instructors: <br>
-<br>
-Jordi Bolibar (Université Grenoble Alpes) <br>
-Regine Hock (University of Oslo & University of Alaska Fairbanks) <br>
-Konstantin Maslov (University of Twente) <br>
-Facundo Sapienza (UC Berkeley) <br>
-Thomas Schellenberger (University of Oslo) <br>
-Kamilla Hauknes Sjursen (Western Norway University of Applied Sciences) <br>
 
 The course is sponsored by a [TU Delft Climate Action grant](https://www.tudelft.nl/en/climate-action) and the [Research Council of Norway project MASSIVE project](https://www.mn.uio.no/geo/english/research/projects/massive/index.html).
 <!---

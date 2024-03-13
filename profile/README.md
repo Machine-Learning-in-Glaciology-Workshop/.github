@@ -41,7 +41,8 @@ The course is sponsored by a [TU Delft Climate Action grant](https://www.tudelft
 The course is sponsored by the [Peder Sather grant](https://sathercenter.berkeley.edu/peder-sather-grant/), [CloudFerro](https://cloudferro.com/en/), and [CryoCloud](https://cryointhecloud.co)
 
 [Jupyter Book](https://machine-learning-in-glaciology-workshop.github.io/Lecture-materials/README.html)
--->
+
 <img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/CloudFerro_logo_vertical.png" width="200"/>
 
 <img src="https://machine-learning-in-glaciology-workshop.github.io/assets/imgs/cryocloud.jpeg" width="200"/>
+-->

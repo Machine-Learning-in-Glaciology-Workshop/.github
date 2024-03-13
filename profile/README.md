@@ -9,9 +9,10 @@ This workshop is primarily project based. You can learn more about the projects 
 
 ### Workshop organizers
 
-Local organizing committee:
+Local organizing committee:<br>
+<br>
 Thomas Schellenberger (University of Oslo)<br>
-Regine Hock (University of Oslo & University of Alaska Fairbanks)
+Regine Hock (University of Oslo & University of Alaska Fairbanks)<br>
 
 Workshop organizers and instructors: <br>
 <br>

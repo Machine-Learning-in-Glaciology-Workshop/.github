@@ -39,7 +39,7 @@ The workshop is supported by the following institutions:
 
 
 
-The course is sponsored by a [TU Delft Climate Action grant](https://www.tudelft.nl/en/climate-action) and the [Research Council of Norway project MASSIVE](https://www.mn.uio.no/geo/english/research/projects/massive/index.html).
+The course is sponsored by a [TU Delft Climate Action grant](https://www.tudelft.nl/en/climate-action), the [Research Council of Norway project MASSIVE](https://www.mn.uio.no/geo/english/research/projects/massive/index.html) and the [International Association of Cryospheric Sciences (IACS)](https://cryosphericsciences.org/).
 <!---
 The course is sponsored by the [Peder Sather grant](https://sathercenter.berkeley.edu/peder-sather-grant/), [CloudFerro](https://cloudferro.com/en/), and [CryoCloud](https://cryointhecloud.co)
 
